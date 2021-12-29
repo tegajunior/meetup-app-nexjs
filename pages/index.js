@@ -50,7 +50,7 @@ export async function getStaticProps () {
         id: meetup._id.toString()
       }))
     },
-    revalidate: 10 //how many seconds before getStaticProps() is executed again and replacing the props with the new values
+    revalidate: 1 //how many seconds before getStaticProps() is executed again and replacing the props with the new values
   }
 }
 export default HomePage;
