@@ -1,0 +1,1 @@
+{"ast":null,"code":"var MeetupDetails = props;","map":{"version":3,"sources":["C:/Users/chidiebere/Desktop/Learning-React-From-Udemy/nextjs/advanced-next-app/pages/[meetupId]/index.js"],"names":["MeetupDetails","props"],"mappings":"AAAA,IAAMA,aAAa,GAAIC,KAAvB","sourcesContent":["const MeetupDetails = (props)"]},"metadata":{},"sourceType":"script"}
